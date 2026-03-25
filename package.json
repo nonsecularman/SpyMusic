@@ -1,0 +1,9 @@
+{
+  "name": "music-bot",
+  "version": "1.0.0",
+  "description": "telegram music bot",
+  "main": "index.js",
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
